@@ -11,4 +11,4 @@
 
 ### Description   
 
-##### * The https://covid-api.mmediagroup.fr/v1 base URL is used in the project. <br/> * Besides, charts were implemented with "Charts" third part library in the project. <br/> * In the project, users can check the currenct numbers of Covid-19 and they are able to do that country-by-country. <br/> * By the way, countries can be reached on the list as well as search bar. <br/> * However, because of the restrictions of the API service, some example of countries were listed on UICollectionView.
+##### * The https://covid-api.mmediagroup.fr/v1 base URL is used in the project. <br/> * Besides, charts were implemented with "Charts" third part library in the project. <br/> * In the project, users can check the currenct numbers of Covid-19 and they are able to do that country-by-country. <br/> * By the way, countries can be reached on the list as well as search bar. <br/> * However, because of the restrictions of the API service, a few example of countries were listed on UICollectionView.
